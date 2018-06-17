@@ -17,6 +17,7 @@
 ## What you need by 6:15 PM EST
 
 **Nonnegotiable items**
+
 | Item | Additional Notes | Contact Person | Contact information |
 | ---- | ---------------- | -------------- | ------------------- |
 | Cash box | should include count sheet | Barbie Blackheart | () |
@@ -32,6 +33,7 @@
 | Programs |   | Riley Rinkrash | () |
 
 **Nice to have items**
+
 | Item | Additional Notes | Contact Person | Contact Information |
 | ---- | ---------------- | -------------- | ------------------- |
 | Hole punch | should have at one or two; otherwise, just mutilate the tickets in some way | Wolverkween | (216) 773-2138 |
