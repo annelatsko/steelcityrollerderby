@@ -1,13 +1,13 @@
 # Door Instructions
 
 ## Overview
-Doors open at 6:30 PM EST. For your sanity, do NOT allow anyone to purchase tickets before 6:30.
-Game starts at 7 PM EST.
-Tickets at the door are $20.
-Tickets with a coupon are $15.
-Kids 10 and under are free.
-We do not charge for programs.
-Put large bills ($50s and $100s) underneath the divider in the cash box.
+- Doors open at 6:30 PM EST. For your sanity, do NOT allow anyone to purchase tickets before 6:30.
+- Game starts at 7 PM EST.
+- Tickets at the door are $20.
+- Tickets with a coupon are $15.
+- Kids 10 and under are free.
+- We do not charge for programs.
+- Put large bills ($50s and $100s) underneath the divider in the cash box.
 
 ## Actions to take by Bout Day
 
@@ -17,25 +17,25 @@ Put large bills ($50s and $100s) underneath the divider in the cash box.
 ## What you need by 6:15 PM EST
 
 **Nonnegotiable items**
-|Item|Additional Notes|Contact Person|Contact information|
-|----|----------------|--------------|-------------------|
-|Cash box|should include count sheet|Barbie Blackheart|()|
-|Square card reader|should be in the cash box|Barbie Blackheart|()|
-|Square app login information|talk to merch or Wolverkween|Wolverkween|(216) 773-2138|
-|Tickets||Missy Helliot|()|
-|Online ticket list||Barbie Blackheart|()|
-|Comp list|Should include all promotion winners, instructions IN WRITING for any discounted tickets, and comps for the other team| Harmin' Sandiego |()|
-|Colored package tickets| orange, blue, and pink; should be in door box | Wolverkween | (216) 773-2138 |
-|Sharpies|needed for marking hands; should be in door box| Wolverkween| (216) 773-2138 |
-|Will Call ticket organization box|should be in door box|Wolverkween|(216) 773-2138|
-|Retired skater list|in bout production folder|Haymaker|()|
-|Programs||Riley Rinkrash|()|
+| Item | Additional Notes | Contact Person | Contact information |
+| ---- | ---------------- | -------------- | ------------------- |
+| Cash box | should include count sheet | Barbie Blackheart | () |
+| Square card reader|should be in the cash box|Barbie Blackheart | () |
+| Square app login information|talk to merch or Wolverkween | Wolverkween | (216) 773-2138 |
+| Tickets |  | Missy Helliot | () |
+| Online ticket list |   | Barbie Blackheart | () |
+| Comp list | Should include all promotion winners, instructions IN WRITING for any discounted tickets, and comps for the other team | Harmin' Sandiego |()|
+| Colored package tickets | orange, blue, and pink; should be in door box | Wolverkween | (216) 773-2138 |
+| Sharpies |needed for marking hands; should be in door box| Wolverkween| (216) 773-2138 |
+| Will Call ticket organization box | should be in door box|Wolverkween|(216) 773-2138|
+| Retired skater list | in bout production folder | Haymaker | () |
+| Programs |   | Riley Rinkrash | () |
 
 **Nice to have items**
-|Item|Additional Notes|Contact Person|Contact Information|
-|----|----------------|--------------|-------------------|
-|Hole punch|should have at one or two; otherwise, just mutilate the tickets in some way| Wolverkween | (216) 773-2138 |
-|Envelopes|used to organize packages; should be in door box| Wolverkween | (216) 773-2138 |
+| Item | Additional Notes | Contact Person | Contact Information |
+| ---- | ---------------- | -------------- | ------------------- |
+| Hole punch | should have at one or two; otherwise, just mutilate the tickets in some way | Wolverkween | (216) 773-2138 |
+| Envelopes | used to organize packages; should be in door box | Wolverkween | (216) 773-2138 |
 
 ## What needs to be done by 6:30 PM EST
 1. Count the money that is currently in the cash box and record/sign the count sheet.
