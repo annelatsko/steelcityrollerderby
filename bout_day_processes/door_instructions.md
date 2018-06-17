@@ -20,12 +20,12 @@
 
 | Item | Additional Notes | Contact Person | Contact information |
 | ---- | ---------------- | -------------- | ------------------- |
-| Cash box | should include count sheet | Barbie Blackheart | () |
-| Square card reader|should be in the cash box|Barbie Blackheart | () |
+| Cash box | should include count sheet | Barbie Blackheart | (412) 805-7232 |
+| Square card reader|should be in the cash box| Barbie Blackheart | (412) 805-7232 |
 | Square app login information|talk to merch or Wolverkween | Wolverkween | (216) 773-2138 |
-| Tickets |  | Missy Helliot | () |
-| Online ticket list |   | Barbie Blackheart | () |
-| Comp list | Should include all promotion winners, instructions IN WRITING for any discounted tickets, and comps for the other team | Harmin' Sandiego |()|
+| Tickets |  | Missy Helliot | (202) 590-7100 |
+| Online ticket list |   | Barbie Blackheart | (412) 805-7232 |
+| Comp list | Should include all promotion winners, instructions IN WRITING for any discounted tickets, and comps for the other team | Harmin' Sandiego | (610) 442-5332 |
 | Colored package tickets | orange, blue, and pink; should be in door box | Wolverkween | (216) 773-2138 |
 | Sharpies |needed for marking hands; should be in door box| Wolverkween| (216) 773-2138 |
 | Will Call ticket organization box | should be in door box|Wolverkween|(216) 773-2138|
